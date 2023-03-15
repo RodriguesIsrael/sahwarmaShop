@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kebabshop",
+  "private_key_id": "2d7c2916bf7da7a4a643a698f9b28d2c2d26a60a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC68VOpWX3akHj6\nMI37jNqg+x3zN9R8OGX7UcQn7748004xygb8JwZkiycqfDOIsgHJ6Wk45oe4PJbz\njkpLMyuZjv/4IVKdlfL+bjjy8tRiZeHg67th3Q5Vq49KqosDNiTOHQV/OUJfQAQg\nvOK74fhBb89v/w6omHnITxGjnXQBo2VakBZbs+zCnUAVYsGW8eOnxHhwqF2QTl0Z\nSFC4uWGzKMtvq69UWRamUCS/ioqXw6N2Td7Po2cgQDeAp+YI4sLvdD8IgMhSH3lw\nM+Mwdja+4fkAzlRZCIuQaO99ORSt3QT9Ixz2d3RSy/BtQ/yUuyHnUtqDEfmSnDQV\nvP6O0VjhAgMBAAECggEAORrp7wPm1YKnaem2HX7n9B/xhK/rySxjPrO6A2cRSjxU\nGRJ5MsJrCgCV7Lz28w1JTZfu7BJDqCxeAjVXjYQqj+RmXbI0Le41xbH+1HwIE6zC\npLXtzhW8QMBA69KP12HNOWcVHElt9HG2MRfx/Omor7iLec9Ed4zoOp+oqD27R5pP\nND6Ya+UE+tFzBCOC5BlmBVVOH43F672K0mGxxn9tOddqm39ZPIaoy6t28tEhdrLM\nDl+cx8V/7c0S3Lf2Z/z4za+khj2DDM5F/91ZhNk3F20lGdEmuZMKgQtb3xHS3nZ+\nrtUoKySlfr19q+qPIrSsctzGoMJ3CgmJCS5T066ShwKBgQDz6tBMv65oNrceIzVW\nFFKqsskTTGmh0yuzoVEaqtPflgRH5MIVo6Uh4MR1Y2LE+qx1RUVfPXcNIuoCunlC\nmiV7/R2MtOE8RL9ZGSe1kQYwRLOuzpL31VJbBek9R71ioBJEap4/+8BgvP1lPacR\nBKQtriNt0Eq8fdJNcY3Lac29OwKBgQDENACCbyaesVKUUq2dVd/rYoQOVdE3AQmk\nc1LWlIIe5fmzq2tBrN42/nw16COzsA0WezSC06/ENJQvazhmbIQRgWmjfPvqAs8R\nKnWZoVIdtDoPdqyGLGN8ORHOu4Abpk+F+CMdg6I0mqJgbpuYkyRVjH/iRdpW36Yt\nk9Ftv+4QkwKBgA4mfzMUo6+UDQeIj12RDEKu4I9oDXC/6XcgUq4zXttHvrPVB5Vt\nyvSuL3eH7oDy8fJTtHSUAkYW0nCaFNLSUn5g7sfs7mwqqNcoaG9WHH/MXIg1n70U\n+RQiwac2dDw2gRjK/qdDmaODE0g+TWTlWgj0Y0XJoaxRuFOZ1NoKJ09lAoGASLjJ\nk47lLp6k8ArxBMcGlvVN4w5V3GBLFaQVCSnETPWKptibiZ0sRA/xM/3V9c0EHNgP\nr4oMtNmULzs7jWMdVGu2Hv29VZAy9bbaHdZYXGAnwQGIkrazLSDuA8Ulh5oOEabW\nRSM8JOlH1BxLGbM4HWlVISYo9lgw/OW0E0y3TXcCgYEAi40gjS5qqbbBO/J3ofjE\nkWGKpMujjCfSTld8V4bQF+KKtm1MF/Ancn8fiHOrSp32Zzz/L4iKTKc0W7fjBeuh\npThj4Pvemu1HtJcmM6idgRspenCgYHGlNCBx3LIL/5JFdTkr2og4arbGfyeigK0s\nTGSGYTNUh3MsGQbeMPlrXrA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sahwarmashop@kebabshop.iam.gserviceaccount.com",
+  "client_id": "114575512044559341628",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sahwarmashop%40kebabshop.iam.gserviceaccount.com"
+}
